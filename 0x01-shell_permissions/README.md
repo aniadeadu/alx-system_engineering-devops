@@ -1,2 +1,1 @@
-#!/bin/bash
-This is project is for shell permissions
+This is my first readme file on shell permission
